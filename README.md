@@ -8,3 +8,6 @@
 - php-example
 - java-example
 - python-example
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ficcadenti&show_icons=true)
